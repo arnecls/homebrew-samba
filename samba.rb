@@ -5,7 +5,7 @@ class Samba < Formula
   sha256 "8f2c8a7f2bd89b0dfd228ed917815852f7c625b2bc0936304ac3ed63aaf83751"
 
   bottle do
-    revision 1
+    cellar :any_skip_relocation
     sha256 "066b43f14d9422bee66df1a6f62778e805a0308a36243d99e2d584e08a579dd8" => :high_sierra
     sha256 "b0fe54c5705842618e6446c4c804330df89a78ed09bd5b013b2c5fabf34b218f" => :sierra
     sha256 "da0c666f7090e0d838a9232e69a6669c27c54ac2f296cdd0fb3267e019abafe9" => :el_capitan
