@@ -6,6 +6,8 @@ class Samba < Formula
 
   bottle do
     revision 1
+    sha256 "066b43f14d9422bee66df1a6f62778e805a0308a36243d99e2d584e08a579dd8" => :high_sierra
+    sha256 "b0fe54c5705842618e6446c4c804330df89a78ed09bd5b013b2c5fabf34b218f" => :sierra
     sha256 "da0c666f7090e0d838a9232e69a6669c27c54ac2f296cdd0fb3267e019abafe9" => :el_capitan
     sha256 "f1fc6a41e7ff919d7c0d2459df72df4dfa84d557481301338cbb74489e80b659" => :yosemite
     sha256 "3fe2b2aa3b3623dd7d8bc3f2ef7308600125eed03817ecf0fa9d10c0c9911705" => :mavericks
